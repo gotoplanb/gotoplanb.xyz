@@ -1,8 +1,5 @@
-<h1 class="text-3xl font-bold underline">gotoplanb.xyz</h1>
-<p>&nbsp;</p>
-
+<!-- Banner and profile pics -->
 <div class="grid grid-cols-2 md:grid-cols-12">
-	<!-- Banner container -->
 	<div class="col-span-12">
 		<div class="relative">
 			<div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100" />
@@ -21,6 +18,14 @@
 			</div>
 		</div>
 	</div>
+</div>
+<div class="grid grid-cols-6 md:grid-cols-12">
+	<div class="col-span-2 -mt-24 ml-8 md:-mt-40 z-0">
+		<img class="rounded-full border-4 " src="/rektguy1175.png" alt="Rektguy #1175" />
+	</div>
+</div>
+<div class="grid grid-cols-2 md:grid-cols-12">
+	<div>01</div>
 	<div>02</div>
 	<div>03</div>
 	<div>04</div>
