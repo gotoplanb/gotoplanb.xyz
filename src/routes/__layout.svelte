@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class="py-4 flex flex-wrap justify-center space-x-6 lg:hidden">
-			<a href="/" class="text-base font-medium text-slate-600 hover:text-slate-800"> Gallery </a>
+			<a href="/" class="text-base font-medium text-slate-600 hover:text-slate-800"> Home </a>
 
 			<a href="/collections" class="text-base font-medium text-slate-600 hover:text-slate-800">
 				Collections
