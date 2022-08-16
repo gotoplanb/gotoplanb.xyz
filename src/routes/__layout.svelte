@@ -10,22 +10,18 @@
 		>
 			<div class="flex items-center">
 				<a href="/">
-					<span>gotoplanb.xyz</span>
-					<!-- TODO Add some logo maybe -->
-					<!-- <span class="sr-only">gotoplanb.xyz</span>
-			<img class="h-10 w-auto" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=black" alt=""> -->
+					<span class="sr-only">gotoplanb.xyz</span>
+					<img
+						class="h-10 w-auto"
+						src="https://tailwindui.com/img/logos/workflow-mark.svg?color=white"
+						alt=""
+					/>
 				</a>
 				<div class="hidden ml-10 space-x-8 lg:block">
-					<a href="/" class="text-base font-medium text-slate-600 hover:text-slate-800">
-						Gallery
-					</a>
+					<a href="/" class="text-base font-medium text-slate-600 hover:text-slate-800"> Home </a>
 
 					<a href="/collections" class="text-base font-medium text-slate-600 hover:text-slate-800">
 						Collections
-					</a>
-
-					<a href="/links" class="text-base font-medium text-slate-600 hover:text-slate-800">
-						Links
 					</a>
 				</div>
 			</div>
@@ -39,8 +35,6 @@
 			<a href="/collections" class="text-base font-medium text-slate-600 hover:text-slate-800">
 				Collections
 			</a>
-
-			<a href="/links" class="text-base font-medium text-slate-600 hover:text-slate-800"> Links </a>
 		</div>
 	</nav>
 </header>
