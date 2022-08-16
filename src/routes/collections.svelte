@@ -137,7 +137,7 @@
 					<div class="space-y-4">
 						<div class="aspect-w-3 aspect-h-2">
 							<img
-								class="object-cover shadow-lg rounded-lg"
+								class="object-cover shadow-lg"
 								src="./sinkholes-2022-august-devils-millhopper.png"
 								alt=""
 							/>
