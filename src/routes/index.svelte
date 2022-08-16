@@ -1,40 +1,44 @@
-<!-- Banner and profile pics -->
-<div class="grid grid-cols-2 md:grid-cols-12">
-	<div class="col-span-12">
-		<div class="relative">
-			<div class="absolute inset-x-0 bottom-0 h-1/2 bg-gray-100" />
-			<div class="">
-				<div class="relative shadow-xl sm:overflow-hidden">
-					<div class="absolute inset-0">
-						<!-- Banner image -->
-						<img
-							class="h-full w-full object-cover"
-							src="/moneyneversleeps.png"
-							alt="Money Never Sleeps"
-						/>
-					</div>
-					<div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-32 lg:px-8" />
-				</div>
-			</div>
+<!-- This example requires Tailwind CSS v2.0+ -->
+<div>
+	<div>
+	  <img class="h-32 w-full object-cover lg:h-48" src="./moneyneversleeps.png" alt="">
+	</div>
+	<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+	  <div class="-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5">
+		<div class="flex">
+		  <img class="h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32" src="./rektguy1175.png" alt="">
 		</div>
+		<div class="mt-6 sm:flex-1 sm:min-w-0 sm:flex sm:items-center sm:justify-end sm:space-x-6 sm:pb-1">
+		  <div class="sm:hidden md:block mt-6 min-w-0 flex-1">
+			<h1 class="text-2xl font-bold text-gray-900 truncate">gotoplanb.eth/sol/tez</h1>
+		  </div>
+		  <div class="mt-6 flex flex-col justify-stretch space-y-3 sm:flex-row sm:space-y-0 sm:space-x-4">
+			<button type="button" class="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500">
+			  <!-- Heroicon name: solid/mail -->
+			  <svg class="-ml-1 mr-2 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+				<path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+				<path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
+				
+			  </svg>
+			  <span>Message</span>
+			</button>
+			<button type="button" class="inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500">
+			  <!-- Heroicon name: solid/phone -->
+			  <svg class="-ml-1 mr-2 h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+				<path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
+			  </svg>
+			  <span>Call</span>
+			</button>
+		  </div>
+		</div>
+	  </div>
+	  <div class="hidden sm:block md:hidden mt-6 min-w-0 flex-1">
+		<h1 class="text-2xl font-bold text-gray-900 truncate">gotoplanb.eth/sol/tez</h1>
+	  </div>
+	  <p class="text-base font-light leading-relaxed mt-8 mb-4 text-gray-800">
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, libero iste quod quibusdam maxime recusandae odit eveniet, aspernatur culpa provident error molestiae vitae corporis in vero est! Beatae, ipsum voluptatibus.
+	  </p>
 	</div>
-</div>
-<div class="grid grid-cols-6 md:grid-cols-12">
-	<div class="col-span-2 -mt-14 md:-mt-24 ml-8 z-0">
-        <img class="inline-block md:h-36 rounded-full border-4" src="/rektguy1175.png" alt="Rektguy #1175" />
-	</div>
-</div>
-<div class="grid grid-cols-2 md:grid-cols-12">
-	<div>01</div>
-	<div>02</div>
-	<div>03</div>
-	<div>04</div>
-	<div>05</div>
-	<div>06</div>
-	<div>07</div>
-	<div>08</div>
-	<div>09</div>
-	<div>10</div>
-	<div>11</div>
-	<div>12</div>
-</div>
+	
+  </div>
+
