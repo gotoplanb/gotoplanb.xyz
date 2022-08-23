@@ -55,7 +55,7 @@
 	<div class="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
 		<img
 			class="w-full h-full object-cover"
-			src="./sinkholes-2022-august-devils-millhopper.png"
+			src="./sinkholes-2022-august-devils-millhopper-reimagined.gif"
 			alt=""
 		/>
 	</div>
