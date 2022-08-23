@@ -15,17 +15,18 @@
 			SINKHOLES
 		</h1>
 		<p class="mt-6 text-xl text-indigo-100 max-w-3xl">
-			Mattis amet hendrerit dolor, quisque lorem pharetra. Pellentesque lacus nisi urna, arcu sociis
-			eu. Orci vel lectus nisl eget eget ut consectetur. Sit justo viverra non adipisicing elit
-			distinctio.
+			Sinkholes fascinate me as this intersection between geology and biology, between slow change
+			and frenetic adapting. Earth gives way. The remaining void exposes millennia of natural
+			history shown through the fossil record. And in that void flora and fauna race to fill the
+			gaps, whether that space is wet or dry.
 		</p>
 		<div class="mt-8">
 			<div class="inline-flex rounded-md shadow">
 				<a
-					href="#"
+					href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/1"
 					class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 				>
-					View on OpenSea
+					Buy the Utility Token on OpenSea
 					<!-- Heroicon name: solid/external-link -->
 					<svg
 						class="-mr-1 ml-3 h-5 w-5 text-gray-400"
@@ -62,12 +63,14 @@
 		<div class="md:ml-auto md:w-1/2 md:pl-10">
 			<h2 class="text-lg font-semibold text-gray-300">Latest Drop</h2>
 			<p class="mt-2 text-white text-3xl font-bold tracking-tight sm:text-4xl sm:tracking-tight">
-				Devil's Millhopper
+				Devil's Millhopper REIMAGINED
 			</p>
 			<p class="mt-3 text-lg text-gray-300">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam
-				sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat
-				quisque ut interdum tincidunt duis.
+				Spooky yet serene. A glimpse into a different reality that first feels like horror but
+				reveals itself to be sentient beings adapting and thriving. Inspired by <a
+					class="underline"
+					href="https://magic-sword.bandcamp.com/track/the-way-home">Magic Sword "The Way Home."</a
+				>
 			</p>
 			<div class="mt-8">
 				<div class="inline-flex rounded-md shadow">
@@ -125,8 +128,8 @@
 					SINKHOLES Editions
 				</h2>
 				<p class="text-xl text-gray-500">
-					Odio nisi, lectus dis nulla. Ultrices maecenas vitae rutrum dolor ultricies donec risus
-					sodales. Tempus quis et.
+					Each month we visit a new sinkhole and use our imagination to consider how a sinkhole
+					could be a portal to another reality.
 				</p>
 			</div>
 			<ul
@@ -136,11 +139,15 @@
 				<li>
 					<div class="space-y-4">
 						<div class="aspect-w-3 aspect-h-2">
-							<img
-								class="object-cover shadow-lg"
-								src="./sinkholes-2022-august-devils-millhopper.png"
-								alt=""
-							/>
+							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/2"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2022-august-devils-millhopper.png"
+									alt=""
+								/>
+							</a>
 						</div>
 
 						<div class="space-y-2">

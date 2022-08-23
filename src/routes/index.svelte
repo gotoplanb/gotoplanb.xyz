@@ -42,5 +42,8 @@
 		<p class="text-base font-light leading-relaxed mt-8 mb-4 text-gray-800">
 			Obsessed with sinkholes. Usability (PhD). Ask me about JPEGs and sustainability.
 		</p>
+		<p class="text-base font-light leading-relaxed mt-8 mb-4 text-gray-800">
+			<a href="/collections" class="underline">View the SINKHOLES collection</a>
+		</p>
 	</div>
 </div>
