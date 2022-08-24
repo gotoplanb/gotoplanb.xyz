@@ -67,15 +67,16 @@
 			</p>
 			<p class="mt-3 text-lg text-gray-300">
 				Spooky yet serene. A glimpse into a different reality that first feels like horror but
-				reveals itself to be sentient beings adapting and thriving. Inspired by <a
-					class="underline"
-					href="https://magic-sword.bandcamp.com/track/the-way-home">Magic Sword "The Way Home."</a
+				reveals itself to be sentient beings adapting and thriving. <br />Reimagined art by Mikedup.<br
+				/>Inspired by the music of
+				<a class="underline" href="https://magic-sword.bandcamp.com/track/the-way-home"
+					>Magic Sword "The Way Home."</a
 				>
 			</p>
 			<div class="mt-8">
 				<div class="inline-flex rounded-md shadow">
 					<a
-						href="#"
+						href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/3"
 						class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 					>
 						View on OpenSea
