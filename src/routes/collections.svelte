@@ -55,7 +55,7 @@
 	<div class="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
 		<img
 			class="w-full h-full object-cover"
-			src="./sinkholes-2022-august-devils-millhopper-reimagined.gif"
+			src="./sinkholes-2022-september-pos-mangel-reimagined.gif"
 			alt=""
 		/>
 	</div>
@@ -63,20 +63,20 @@
 		<div class="md:ml-auto md:w-1/2 md:pl-10">
 			<h2 class="text-lg font-semibold text-gray-300">Latest Drop</h2>
 			<p class="mt-2 text-white text-3xl font-bold tracking-tight sm:text-4xl sm:tracking-tight">
-				Devil's Millhopper REIMAGINED
+				Pos Mangel REIMAGINED
 			</p>
 			<p class="mt-3 text-lg text-gray-300">
-				Spooky yet serene. A glimpse into a different reality that first feels like horror but
-				reveals itself to be sentient beings adapting and thriving. <br />Reimagined art by Mikedup.<br
-				/>Inspired by the music of
-				<a class="underline" href="https://magic-sword.bandcamp.com/track/the-way-home"
-					>Magic Sword "The Way Home."</a
+				Pos is a chill swamp demon. Never too tired to help a lost traveler find their way.
+				<br />Reimagined art by Mikedup.
+				<br />Inspired by the music of
+				<a class="underline" href="https://www.epidemicsound.com/track/2h6svBIMCc/"
+					>Brendon Moeller "Mars Adventure."</a
 				>
 			</p>
 			<div class="mt-8">
 				<div class="inline-flex rounded-md shadow">
 					<a
-						href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/3"
+						href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/6"
 						class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 					>
 						View on OpenSea
@@ -137,6 +137,58 @@
 				role="list"
 				class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-3 lg:gap-x-8"
 			>
+				<li>
+					<div class="space-y-4">
+						<div class="aspect-w-3 aspect-h-2">
+							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/4"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2022-september-pos-mangel.png"
+									alt=""
+								/>
+							</a>
+						</div>
+
+						<div class="space-y-2">
+							<div class="text-lg leading-6 font-medium space-y-1">
+								<h3>Pos Mangel</h3>
+								<p class="text-indigo-600">Bonaire, Dutch Caribbean</p>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="space-y-4">
+						<div class="aspect-w-3 aspect-h-2">
+							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/3"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2022-august-devils-millhopper-reimagined.gif"
+									alt=""
+								/>
+							</a>
+						</div>
+
+						<div class="space-y-2">
+							<div class="text-lg leading-6 font-medium space-y-1">
+								<h3>Devil's Millhopper REIMAGINED</h3>
+								<p class="text-indigo-600">Gainesville, FL, USA</p>
+								<p class="mt-3 text-lg text-gray-600">
+									Spooky yet serene. A glimpse into a different reality that first feels like horror
+									but reveals itself to be sentient beings adapting and thriving. <br />Reimagined
+									art by Mikedup.<br />Inspired by the music of
+									<a class="underline" href="https://magic-sword.bandcamp.com/track/the-way-home"
+										>Magic Sword "The Way Home."</a
+									>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
 				<li>
 					<div class="space-y-4">
 						<div class="aspect-w-3 aspect-h-2">
