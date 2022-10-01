@@ -55,7 +55,7 @@
 	<div class="h-56 bg-indigo-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
 		<img
 			class="w-full h-full object-cover"
-			src="./sinkholes-2022-september-pos-mangel-reimagined.gif"
+			src="./sinkholes-2022-october-alachua.png"
 			alt=""
 		/>
 	</div>
@@ -63,20 +63,15 @@
 		<div class="md:ml-auto md:w-1/2 md:pl-10">
 			<h2 class="text-lg font-semibold text-gray-300">Latest Drop</h2>
 			<p class="mt-2 text-white text-3xl font-bold tracking-tight sm:text-4xl sm:tracking-tight">
-				Pos Mangel REIMAGINED
+				Alachua Sink
 			</p>
 			<p class="mt-3 text-lg text-gray-300">
-				Pos is a chill swamp demon. Never too tired to help a lost traveler find their way.
-				<br />Reimagined art by Mikedup.
-				<br />Inspired by the music of
-				<a class="underline" href="https://www.epidemicsound.com/track/2h6svBIMCc/"
-					>Brendon Moeller "Mars Adventure."</a
-				>
+				<a href="https://www.naturalnorthflorida.com/blog/visit-the-la-chua-trail-and-alachua-sink-at-paynes-prairie-state-park/" class="underline">Alachua Sink</a> is on the north side of <a href="https://www.floridastateparks.org/parks-and-trails/paynes-prairie-preserve-state-park" class="underline">Paynes Prairie</a> and serves as a primary ingress for rainwater to re-enter the Florida aquifer. Heavy summer rains caused the water table to push up into this previously dry, small sinkhole 100 yards from the main sink. I first spotted on a sunny day but knew this scene called for the lighting only found on a gloomy morning. A perfect background to reimagine for Halloween.
 			</p>
 			<div class="mt-8">
 				<div class="inline-flex rounded-md shadow">
 					<a
-						href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/6"
+						href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/7"
 						class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-gray-900 bg-white hover:bg-gray-50"
 					>
 						View on OpenSea
@@ -137,6 +132,36 @@
 				role="list"
 				class="space-y-12 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-3 lg:gap-x-8"
 			>
+				<li>
+					<div class="space-y-4">
+						<div class="aspect-w-3 aspect-h-2">
+							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/6"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2022-september-pos-mangel-reimagined.gif"
+									alt=""
+								/>
+							</a>
+						</div>
+
+						<div class="space-y-2">
+							<div class="text-lg leading-6 font-medium space-y-1">
+								<h3>Pos Mangel REIMAGINED</h3>
+								<p class="text-indigo-600">Bonaire, Dutch Caribbean</p>
+								<p class="mt-3 text-lg text-gray-600">
+									Pos is a chill swamp demon. Never too tired to help a lost traveler find their way.
+									<br />Reimagined art by Mikedup.
+									<br />Inspired by the music of
+									<a class="underline" href="https://www.epidemicsound.com/track/2h6svBIMCc/"
+										>Brendon Moeller "Mars Adventure."</a
+									>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
 				<li>
 					<div class="space-y-4">
 						<div class="aspect-w-3 aspect-h-2">
