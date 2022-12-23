@@ -1,7 +1,7 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div>
 	<div>
-		<img class="h-32 w-full object-cover lg:h-48" src="./moneyneversleeps.png" alt="" />
+		<img class="h-32 w-full object-cover lg:h-48" src="./rld.png" alt="" />
 	</div>
 	<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 		<div class="-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5">
