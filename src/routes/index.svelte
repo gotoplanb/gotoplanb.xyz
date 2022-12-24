@@ -1,7 +1,7 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
 <div>
 	<div>
-		<img class="h-32 w-full object-cover lg:h-48" src="./moneyneversleeps.png" alt="" />
+		<img class="h-32 w-full object-cover lg:h-48" src="./rld.png" alt="" />
 	</div>
 	<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 		<div class="-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5">
@@ -42,8 +42,17 @@
 		<p class="text-base font-light leading-relaxed mt-8 mb-4 text-gray-800">
 			Obsessed with sinkholes. Usability (PhD). Ask me about JPEGs and sustainability.
 		</p>
-		<p class="text-base font-light leading-relaxed mt-8 mb-4 text-gray-800">
-			<a href="/collections" class="underline">View the SINKHOLES collection</a>
-		</p>
+		<h2 class="text-xl mt-8 font-bold text-gray-900 truncate">Market links</h2>
+		<section class="text-base font-light leading-relaxed mb-4 text-gray-800">
+			<p>
+				<a href="https://opensea.io/collection/gotoplanb-sinkholes" class="underline">SINKHOLES</a> on OpenSea
+			</p>
+			<p>
+				<a href="https://opensea.io/collection/gotoplanb-ruins" class="underline">RUINS</a> on OpenSea
+			</p>
+			<p>
+				<a href="https://objkt.com/collection/KT1MKMssaTbC92Vz6LcCCQSczkeirvCRZ4Mg" class="underline">SKIES</a> on objkt
+			</p>
+		</section>
 	</div>
 </div>
