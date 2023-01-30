@@ -293,7 +293,7 @@
 
 						<div class="space-y-2">
 							<div class="text-lg leading-6 font-medium space-y-1">
-								<h3>Devil's Millhopper REIMAGINED</h3>
+								<h3>Alachua Sink REIMAGINED</h3>
 								<p class="text-indigo-600">Gainesville, FL, USA</p>
 							</div>
 						</div>
@@ -325,6 +325,28 @@
 					<div class="space-y-4">
 						<div class="aspect-w-3 aspect-h-2">
 							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/12"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2023-january-newins-ziegler-reimagined.png"
+									alt=""
+								/>
+							</a>
+						</div>
+
+						<div class="space-y-2">
+							<div class="text-lg leading-6 font-medium space-y-1">
+								<h3>Newins-Ziegler Sink REIMAGINED</h3>
+								<p class="text-indigo-600">Gainesville, FL, USA</p>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="space-y-4">
+						<div class="aspect-w-3 aspect-h-2">
+							<a
 								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/10"
 							>
 								<img
@@ -338,6 +360,28 @@
 						<div class="space-y-2">
 							<div class="text-lg leading-6 font-medium space-y-1">
 								<h3>Fontaine-de-Vaucluse</h3>
+								<p class="text-indigo-600">Provence, France</p>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="space-y-4">
+						<div class="aspect-w-3 aspect-h-2">
+							<a
+								href="https://opensea.io/assets/ethereum/0x30d93d1377246e18d929332bd59582f1c316dffe/13"
+							>
+								<img
+									class="object-cover shadow-lg"
+									src="./sinkholes-2023-february-fontaine-de-vaucluse-reimagined.png"
+									alt=""
+								/>
+							</a>
+						</div>
+
+						<div class="space-y-2">
+							<div class="text-lg leading-6 font-medium space-y-1">
+								<h3>Fontaine-de-Vaucluse REIMAGINED</h3>
 								<p class="text-indigo-600">Provence, France</p>
 							</div>
 						</div>
